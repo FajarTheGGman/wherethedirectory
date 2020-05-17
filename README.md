@@ -28,3 +28,6 @@ Windows
 3.npm install
 4.npm start
 </pre>
+
+# Support Me :)
+![donate](https://raw.githubusercontent.com/FajarTheGGman/F-Tools/master/.images/donate.jpeg)
