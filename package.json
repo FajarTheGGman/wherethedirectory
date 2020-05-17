@@ -1,0 +1,25 @@
+{
+  "name": "wherethedirectory",
+  "version": "1.0.0",
+  "description": "simple script for scanning directory for web",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start",
+    "start": "node index"
+  },
+  "keywords": [
+    "pentest"
+  ],
+  "dependencies": {
+    "inquirer": "*",
+    "request": "*",
+    "readline": "*",
+    "colors": "*",
+    "chalk": "*",
+    "fs": "*",
+    "yosay": "*",
+    "jsome": "*"
+  },
+  "author": "FajarTheGGman",
+  "license": "ISC"
+}
