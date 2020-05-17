@@ -6,8 +6,8 @@ Simple Program For Scanning Directory Website
 
 # Screenshots
 
-![alt-text](https://github.com/FajarTheGGman/F-ToolsV2/blob/master/.img/banner.png)
-![alt-text](https://github.com/FajarTheGGman/F-ToolsV2/blob/master/.img/result.png)
+![alt-text](https://github.com/FajarTheGGman/wherethedirectory/blob/master/.img/banner.png)
+![alt-text](https://github.com/FajarTheGGman/wherethedirectory/blob/master/.img/result.png)
 
 # How To Install ?
 
